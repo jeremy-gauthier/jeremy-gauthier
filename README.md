@@ -10,6 +10,6 @@ My student github account : https://github.com/jeremy-excalibur
 - CMS : Wordpress
 - Database : MySQL
 
-### Contact me
+### Contact 
 - :envelope: jeremy.gth.dev@gmail.com
 - :office: https://www.linkedin.com/in/jeremygauthier11/
