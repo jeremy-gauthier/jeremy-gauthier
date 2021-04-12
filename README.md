@@ -1,6 +1,6 @@
 ## Hello World :wave:
 
-#### My name is Jeremy Gauthier, :computer: I'm a french web developer in Toulouse.
+#### My name is Jeremy Gauthier, :computer:  I'm a french web developer from Toulouse.
 My student github account : https://github.com/jeremy-excalibur
 
 ### My stack
