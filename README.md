@@ -8,7 +8,7 @@ My student github account : https://github.com/jeremy-excalibur
 - HTML/CSS : Bootstrap, Bulma
 - JavaScript : VueJS (learning)
 - PHP : Symfony, Lumen
-- CMS : Wordpress
+- CMS : Magento, Wordpress
 - Database : MySQL
 
 ### Contact 
